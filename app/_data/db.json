@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Chanchal Choudhary",
+      "email": "chanchal@gmail.com",
+      "userId": "1",
+      "id": 1
+    },
+    {
+      "name": " Shivani Choudhary",
+      "email": "shivani@gmail.com",
+      "userId": "XTSGwth",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "12345",
+      "id": "XTSGwth"
+    }
+  ]
+}
